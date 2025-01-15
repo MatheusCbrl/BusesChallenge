@@ -1,0 +1,5 @@
+requests
+BeautifulSoup
+json
+pymysql 
+sqlalchemy
